@@ -1,3 +1,11 @@
+package solid
+
+import (
+	"fmt"
+	"io/ioutil"
+	"net/url"
+	"strings"
+)
 
 var entryCount = 0
 
